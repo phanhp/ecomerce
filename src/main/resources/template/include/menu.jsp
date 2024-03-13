@@ -1,8 +1,4 @@
-<%-- 
-    Document   : menu
-    Created on : Jan 24, 2024, 7:18:41 PM
-    Author     : PhucPhan
---%>
+
 
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
